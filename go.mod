@@ -12,7 +12,7 @@ require (
 	github.com/go-playground/validator/v10 v10.30.1
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/uuid v1.6.0
-	github.com/lib/pq v1.11.1
+	github.com/lib/pq v1.11.2
 	github.com/redis/go-redis/v9 v9.18.0
 	github.com/shopspring/decimal v1.4.0
 	github.com/stretchr/testify v1.11.1
