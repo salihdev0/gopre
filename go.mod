@@ -1,12 +1,12 @@
 module github.com/9ssi7/gopre
 
-go 1.25.0
+go 1.26
 
 require (
 	github.com/9ssi7/txn v1.0.4
 	github.com/9ssi7/txn/txngorm v1.0.4
 	github.com/go-playground/locales v0.14.1
-	github.com/go-playground/universal-translator v0.18.1
+	github.com/go-playground/universal-translator v0.18.2
 	github.com/go-playground/validator/v10 v10.30.4
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/uuid v1.6.0
